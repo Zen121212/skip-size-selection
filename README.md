@@ -13,7 +13,7 @@ This is a React-based web application that allows users to select a suitable ski
 - **Tailwind CSS**: Utility-first CSS framework used for styling and responsive layout.
 - **JavaScript (ES6+)**: Modern JavaScript features used throughout the project.
 - **Fetch API**: For making HTTP requests to the backend API.
-- **Vite** (assumed): Fast frontend build tool for development and bundling.
+- **Vite**: Fast frontend build tool for development and bundling.
 
 ---
 
